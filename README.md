@@ -1,20 +1,7 @@
 <!-- BEGIN VEZOBOX HOME -->
-<div align="center">
-
-# VezoBox Home
-
-### All VezoBox products, one starting point.
-
-[**Open VezoBox Home &rarr;**](https://github.com/SATLANIKO/VezoBox-Home-Website)
-
-Public product information and approved Main website updates.
-
-</div>
-
----
+**VezoBox Home** · [All products & updates →](https://github.com/SATLANIKO/VezoBox-Home-Website)
 <!-- END VEZOBOX HOME -->
 
-## Hi there 👋
 
 <!--
 **SATLANIKO/SATLANIKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
