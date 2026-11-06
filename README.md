@@ -1,4 +1,6 @@
 <!-- BEGIN VEZOBOX HOME -->
+<sub>Home · v0.1.1 · Development</sub>
+
 **VezoBox Home** · [All products & updates →](https://github.com/SATLANIKO/VezoBox-Home-Website)
 <!-- END VEZOBOX HOME -->
 
