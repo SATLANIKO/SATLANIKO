@@ -1,3 +1,19 @@
+<!-- BEGIN VEZOBOX HOME -->
+<div align="center">
+
+# VezoBox Home
+
+### All VezoBox products, one starting point.
+
+[**Open VezoBox Home &rarr;**](https://github.com/SATLANIKO/VezoBox-Home-Website)
+
+Public product information and approved Main website updates.
+
+</div>
+
+---
+<!-- END VEZOBOX HOME -->
+
 ## Hi there 👋
 
 <!--
